@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "134360848949",
+    "project_id": "ayudemos-a-los-animales",
+    "storage_bucket": "ayudemos-a-los-animales.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134360848949:android:a3c68da9064ea09bdbef7c",
+        "android_client_info": {
+          "package_name": "com.example.aplicacion_felipe_sebastian"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134360848949-uu1bo7spqm7jodq5oitsf73rcb853dbb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3zklEI6ALQmUHH-nu-ebsrJjwvVjAVRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134360848949-uu1bo7spqm7jodq5oitsf73rcb853dbb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
